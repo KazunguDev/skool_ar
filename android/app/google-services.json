@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739843615301",
+    "project_id": "skoolar-4be32",
+    "storage_bucket": "skoolar-4be32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739843615301:android:549d3fc8da4dcf91a3512c",
+        "android_client_info": {
+          "package_name": "com.kazungudev.skool_ar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxifRj1HZFfwAckB-VSSnjR5knHGuvcOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
